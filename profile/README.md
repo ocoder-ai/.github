@@ -11,7 +11,7 @@ VS Code 插件，调用第三方 API 使用 AI Agent。
 
 - 仓库：[ocoder-ai/ocoder-vscode](https://github.com/ocoder-ai/ocoder-vscode))
 - 功能：代码补全、生成、重构，通过配置 API 接入不同模型
-- 状态：开发中 / 已发布（待补充）
+- 状态：开发中....
 
 | 项目 | 描述 | 状态 |
 |------|------|------|
