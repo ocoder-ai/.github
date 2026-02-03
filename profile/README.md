@@ -1,12 +1,28 @@
-## Hi there 👋
+# ocoder-ai
 
-<!--
+写代码的，搞工具的。
 
-**Here are some ideas to get you started:**
+## 项目
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### ocoder-vscode
+
+VS Code 插件，调用第三方 API 使用 AI Agent。  
+和 Claude Code 类似，但跑在 VS Code 里。
+
+- 仓库：[ocoder-ai/ocoder-vscode](https://github.com/ocoder-ai/ocoder-vscode))
+- 功能：代码补全、生成、重构，通过配置 API 接入不同模型
+- 状态：开发中 / 已发布（待补充）
+
+| 项目 | 描述 | 状态 |
+|------|------|------|
+| ocoder-vscode | VS Code AI 插件 | 开发中 |
+
+## 参与
+
+- Issue 先搜后提
+- PR 过测试
+- 大改动先讨论
+
+## 联系
+
+- Email: （3520687734@qq.com）
